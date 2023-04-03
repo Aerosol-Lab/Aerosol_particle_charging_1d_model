@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-This repository contains a population balance model for particle charging through 2 mechanisms namely diffusion and field charging.
+This repository contains a population balance model for particle charging through 2 mechanisms namely diffusion and field charging. The model also considers  the particle electrophoretic deposition in an electrostatic precipitator (ESP).
 
 ## 2. Installation
 
